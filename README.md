@@ -8,4 +8,5 @@ if(estudiar)
 apruebo; 
 
 commit semana 2
+quiero ahcer commit;
 
